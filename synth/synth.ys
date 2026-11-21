@@ -1,0 +1,11 @@
+read_verilog rtl/int8_adder_clk.v
+hierarchy -top int8_adder_clk
+proc
+opt
+techmap
+opt
+abc -g simple
+clean
+stat
+write_verilog -noattr synth/synthesized.v
+show -format dot -prefix synth/int8_adder_clk

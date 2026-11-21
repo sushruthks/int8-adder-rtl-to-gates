@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Nov 21 11:15:49 2026
+[*]
+[dumpfile] "/mnt/c/Users/sushr/Desktop/clg/sushruth/Projects/SiliconRTL/int8_adder_final/int8_adder_clk.vcd"
+[dumpfile_mtime] "Sat Nov 21 11:08:43 2026"
+[dumpfile_size] 1808
+[savefile] "/mnt/c/Users/sushr/Desktop/clg/sushruth/Projects/SiliconRTL/int8_adder_final/int8_adder_clk.gtkw"
+[timestart] 0
+[size] 2534 907
+[pos] -1 -1
+*-13.164640 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_int8_adder_clk.
+[sst_width] 297
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 264
+@421
+tb_int8_adder_clk.dut.a[7:0]
+tb_int8_adder_clk.dut.b[7:0]
+tb_int8_adder_clk.dut.clk
+tb_int8_adder_clk.dut.result[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
