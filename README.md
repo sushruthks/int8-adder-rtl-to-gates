@@ -138,4 +138,4 @@ docs/   waveform.png, gates.png
 
 
 ---
-Author: [sushruthks](https://github.com/sushruthks) · 1st-year ECE
+Author: [sushruthks](https://github.com/sushruthks) · Birla Institute of Technology,Mesra 1st-year ECE
